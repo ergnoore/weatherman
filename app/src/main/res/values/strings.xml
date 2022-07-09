@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">weather</string>
+    <string name="app_name">Weatherman</string>
+    <string name="sity_input_hint">Введите город</string>
+    <string name="no_user_input">Введите город</string>
+    <string name="API_err">Ошибка выполнения запроса</string>
+    <string name="auto_button">Определение города по геолокации</string>
+    <string name="hand_button">Ручной ввод города</string>
 </resources>
